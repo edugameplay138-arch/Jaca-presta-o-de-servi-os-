@@ -1,0 +1,6 @@
+{
+  "name": "Marido de Aluguel Jaca - Campo Novo do Parecis MT",
+  "description": "Desentupimento, vazamentos, elétrica, hidráulica, pintura e telhados em Campo Novo do Parecis - MT. Atendimento 24h: (65) 9 8158-8530.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
